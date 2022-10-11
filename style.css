@@ -108,7 +108,7 @@ hr {
     display: flex;
     align-items: center;
     width: 100%;
-
+    margin-bottom: 30px
 }
 
 .course-duration {
@@ -139,6 +139,10 @@ hr {
     .player,
     .blog {
         flex-direction: column;
+    }
+
+    .course {
+        margin-left: 150px
     }
 }
 
